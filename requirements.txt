@@ -2,6 +2,7 @@ langchain
 langchain-core
 langchain-community
 pypdf2
+pypdf
 python-dotenv
 pandas
 wasabi
@@ -28,4 +29,5 @@ langchain-groq
 langchain-ollama
 langchainhub 
 langchain_experimental
+langchain-chroma
 langgraph
