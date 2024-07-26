@@ -11,6 +11,7 @@ spacy
 tiktoken
 pillow
 beautifulsoup4
+duckduckgo_search
 matplotlib
 numpy
 plotly
